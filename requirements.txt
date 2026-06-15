@@ -1,0 +1,23 @@
+#Dont Remove My Credit @Silicon_Bot_Update 
+#This Repo Is By @Silicon_Official 
+# For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
+
+pyrofork==2.3.45
+motor
+pymongo
+TgCrypto
+dnspython
+aiohttp
+pytz
+psutil
+
+#Dont Remove My Credit @Silicon_Bot_Update 
+#This Repo Is By @Silicon_Official 
+# For Any Kind Of Error Ask Us In Support Group @Silicon_Botz 
+#Koyeb Support 
+
+Flask==2.3.3
+gunicorn==20.1.0
+Jinja2==3.1.2
+werkzeug==3.0.1
+itsdangerous==2.1.2
