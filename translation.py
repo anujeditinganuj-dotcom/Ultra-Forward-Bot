@@ -216,12 +216,12 @@ UPI ID - </i></b><code>971916880@ybl</code>"""
 {}"""
 
   PLAN_DESCRIPTIONS = {
-      "free": "Only configuration options available",
-      "plus": "Only forwarding, no FTM Manager feature",
-      "pro": "Gamma mode, watermark, text only + all features of Plus plan",
-      "infinity": "All features of Pro plan & all features of bot including FTM Manager except Delta, Theta, and Pi mode and all new upcoming features",
-      "ultra": "All features of Infinity + Delta, Theta & Pi mode exclusive + Blast Mode",
-  }
+    "ᴀᴋʙᴜᴄᴋs ғʀᴇᴇ": "Only configuration options available",
+    "ᴀᴋʙᴜᴄᴋs ᴘʟᴜs": "Only forwarding, no FTM Manager feature",
+    "ᴀᴋʙᴜᴄᴋs ᴘʀᴏ": "Gamma mode, watermark, text only + all features of Plus plan",
+    "ᴀᴋʙᴜᴄᴋs ɪɴғɪɴɪᴛʏ": "All features of Pro plan & all features of bot including FTM Manager except Delta, Theta, and Pi mode and all new upcoming features",
+    "ᴀᴋʙᴜᴄᴋs ᴜʟᴛʀᴀ": "All features of Infinity + Delta, Theta & Pi mode exclusive + Blast Mode",
+}
 
   PLAN_EMOJIS = {
       "free": "💎",
