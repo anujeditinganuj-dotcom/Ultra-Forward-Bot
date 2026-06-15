@@ -37,16 +37,18 @@ UPI ID - </i></b><code>971916880@ybl</code>"""
 ⏣ __/stop - ᴄᴀɴᴄᴇʟ ʏᴏᴜʀ ᴏɴɢᴏɪɴɢ ғᴏʀᴡᴀʀᴅɪɴɢ__
 </b>
 
-<b><u>💢 Features:</b></u>
-<b>► __Forward message from public channel to your channel without admin permission. if the channel is private need admin permission__
-► __Forward message from private channel to your channel by using userbot(user must be member in there)__
-► __Custom caption__
-► __Custom button__
-► __Support restricted chats__
-► __Skip duplicate messages__
-► __Filter type of messages__
-► __Skip messages based on extensions & keywords & size__</b>
-"""
+<b><u>💢 ғᴇᴀᴛᴜʀᴇs:</u></b>
+
+<b>
+► __ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴘᴜʙʟɪᴄ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ. ɪғ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ ɪs ᴘʀɪᴠᴀᴛᴇ, ɴᴇᴇᴅ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ__
+► __ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʙʏ ᴜsɪɴɢ ᴜsᴇʀʙᴏᴛ (ᴜsᴇʀ ᴍᴜsᴛ ʙᴇ ᴍᴇᴍʙᴇʀ ɪɴ ᴛʜᴇʀᴇ)__
+► __ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ__
+► __ᴄᴜsᴛᴏᴍ ʙᴜᴛᴛᴏɴ__
+► __sᴜᴘᴘᴏʀᴛ ʀᴇsᴛʀɪᴄᴛᴇᴅ ᴄʜᴀᴛs__
+► __sᴋɪᴘ ᴅᴜᴘʟɪᴄᴀᴛᴇ ᴍᴇssᴀɢᴇs__
+► __ғɪʟᴛᴇʀ ᴛʏᴘᴇ ᴏғ ᴍᴇssᴀɢᴇs__
+► __sᴋɪᴘ ᴍᴇssᴀɢᴇs ʙᴀsᴇᴅ ᴏɴ ᴇxᴛᴇɴsɪᴏɴs & ᴋᴇʏᴡᴏʀᴅs & sɪᴢᴇ__
+</b>
 #Dont Remove My Credit @Silicon_Bot_Update 
 #This Repo Is By @Silicon_Official 
 # For Any Kind Of Error Ask Us In Support Group @Silicon_Botz
