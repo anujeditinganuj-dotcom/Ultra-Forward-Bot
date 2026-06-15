@@ -19,9 +19,9 @@ class Translation(object):
 <b>Bᴏᴛ Iꜱ Mᴀᴅᴇ Bʏ <a href='https://t.me/anujedits76'>Aɴᴜᴊ Kᴜᴍᴀʀ</a></b>"""
 
 
-  DONATE_TXT = """<b><i>If you liked me ❤️. consider make a donation to support my developer 👦
+  DONATE_TXT = """<b><i>ɪғ ʏᴏᴜ ʟɪᴋᴇᴅ ᴍᴇ ❤️, ᴄᴏɴsɪᴅᴇʀ ᴍᴀᴋɪɴɢ ᴀ ᴅᴏɴᴀᴛɪᴏɴ ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👦
 
-UPI ID - </i></b><code>971916880@ybl</code>"""
+ᴜᴘɪ ɪᴅ - </i></b><code>971916880@ybl</code>"""
 
   HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
 
