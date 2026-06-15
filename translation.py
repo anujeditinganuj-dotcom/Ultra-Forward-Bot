@@ -49,12 +49,13 @@ UPI ID - </i></b><code>971916880@ybl</code>"""
 #This Repo Is By @Silicon_Official 
 # For Any Kind Of Error Ask Us In Support Group @Silicon_Botz
   
-  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding:</b></u>
-<b>► __add a bot or userbot__
-► __add atleast one to channel__ `(your bot/userbot must be admin in there)`
-► __You can add chats or bots by using /settings__
-► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
-► __Then use /forward to forward messages__</b>"""
+  HOW_USE_TXT = """<b><u>⚠️ ʙᴇғᴏʀᴇ ғᴏʀᴡᴀʀᴅɪɴɢ:</u></b>
+
+<b>► __ᴀᴅᴅ ᴀ ʙᴏᴛ ᴏʀ ᴜsᴇʀʙᴏᴛ__
+► __ᴀᴅᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴇ ᴛᴏ ᴄʜᴀɴɴᴇʟ__ `(ʏᴏᴜʀ ʙᴏᴛ/ᴜsᴇʀʙᴏᴛ ᴍᴜsᴛ ʙᴇ ᴀᴅᴍɪɴ ɪɴ ᴛʜᴇʀᴇ)`
+► __ʏᴏᴜ ᴄᴀɴ ᴀᴅᴅ ᴄʜᴀᴛs ᴏʀ ʙᴏᴛs ʙʏ ᴜsɪɴɢ /settings__
+► __ɪғ ᴛʜᴇ **ғʀᴏᴍ ᴄʜᴀɴɴᴇʟ** ɪs ᴘʀɪᴠᴀᴛᴇ ʏᴏᴜʀ ᴜsᴇʀʙᴏᴛ ᴍᴜsᴛ ʙᴇ ᴀ ᴍᴇᴍʙᴇʀ ɪɴ ᴛʜᴇʀᴇ ᴏʀ ʏᴏᴜʀ ʙᴏᴛ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ ɪɴ ᴛʜᴇʀᴇ ᴀs ᴡᴇʟʟ__
+► __ᴛʜᴇɴ ᴜsᴇ /forward ᴛᴏ ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇs__</b>"""
 
 #Dont Remove My Credit @Silicon_Bot_Update 
 #This Repo Is By @Silicon_Official 
