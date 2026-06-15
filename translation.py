@@ -25,15 +25,17 @@ UPI ID - </i></b><code>971916880@ybl</code>"""
 
   HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
 
-<u>**📚 Available Commands:**</u>
+<u>**📚 ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
-<b>⏣ __/start - Check I'm alive__ 
-⏣ __/forward - Forward messages__
-⏣ __/unequify - Delete duplicate messages in channels__
-⏣ __/settings - Configure your settings__
-⏣ __/reset - Reset your settings__
-⏣ __/donate - Donate to developer__
-⏣ __/stop - Cancel your ongoing forwarding__</b>
+<b>
+⏣ __/start - ᴄʜᴇᴄᴋ ɪ'ᴍ ᴀʟɪᴠᴇ__  
+⏣ __/forward - ғᴏʀᴡᴀʀᴅ ᴍᴇssᴀɢᴇs__  
+⏣ __/unequify - ᴅᴇʟᴇᴛᴇ ᴅᴜᴘʟɪᴄᴀᴛᴇ ᴍᴇssᴀɢᴇs ɪɴ ᴄʜᴀɴɴᴇʟs__  
+⏣ __/settings - ᴄᴏɴғɪɢᴜʀᴇ ʏᴏᴜʀ sᴇᴛᴛɪɴɢs__  
+⏣ __/reset - ʀᴇsᴇᴛ ʏᴏᴜʀ sᴇᴛᴛɪɴɢs__  
+⏣ __/donate - ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ__  
+⏣ __/stop - ᴄᴀɴᴄᴇʟ ʏᴏᴜʀ ᴏɴɢᴏɪɴɢ ғᴏʀᴡᴀʀᴅɪɴɢ__
+</b>
 
 <b><u>💢 Features:</b></u>
 <b>► __Forward message from public channel to your channel without admin permission. if the channel is private need admin permission__
